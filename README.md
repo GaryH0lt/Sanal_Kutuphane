@@ -1,2 +1,2 @@
 # Sanal_Kutuphane
-Kitiphane Düzenleme Uygulaması
+Kütüphane Düzenleme Uygulaması
