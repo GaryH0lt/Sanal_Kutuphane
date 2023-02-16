@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="background">
+    <file>background.jpg</file>
+  </qresource>
+  <qresource prefix="Logo">
+    <file>198-1985648_transparent-background-atom-clipart-hd-png-download-removebg-preview.png</file>
+  </qresource>
+</RCC>
